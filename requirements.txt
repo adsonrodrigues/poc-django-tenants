@@ -1,5 +1,5 @@
 Django==3.1.*
 django-environ==0.4.*
 psycopg2==2.8.*
-django-tenant-schemas==1.10.*
+django-tenants==3.2.*
 djangorestframework==3.12.*
